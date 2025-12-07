@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# you did not include the input output example
-
-Here is the **updated Markdown file** with **example inputs and outputs for every question (2–20)**. You can save it as `os_lab_programs.md`.
-
-***
-
 # Operating Systems Lab Programs (Q2–Q20)
 
 Each question includes:
